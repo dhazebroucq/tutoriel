@@ -1,8 +1,6 @@
-# Exemple de cours Escapad
+# Utilisation Escapade
 
-## Sous section de cours
-
-Voici une sous-section de cours **Esc@pad**
+## Section 1
 
 
-# Une nouvelle section
+# Section Nouvelle
